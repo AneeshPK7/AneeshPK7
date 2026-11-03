@@ -1,4 +1,4 @@
-# Hi, I'm Aneesh 👋
+# Hi, I'm Aneesh 
 
 AI engineer & full-stack developer · ECE undergrad at **SVNIT Surat**
 
